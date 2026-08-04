@@ -3,3 +3,4 @@ node project
 - `reverse` helper
 - `clamp` helper
 - `chunk` helper
+- `unique` helper
