@@ -4,3 +4,4 @@ node project
 - `clamp` helper
 - `chunk` helper
 - `unique` helper
+- `sum` helper
