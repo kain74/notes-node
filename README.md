@@ -5,3 +5,4 @@ node project
 - `chunk` helper
 - `unique` helper
 - `sum` helper
+- `isEmpty` helper
